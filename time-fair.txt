@@ -1,0 +1,26 @@
+Average Time of Reader Thread 0 0
+Average Time of Reader Thread 1 0
+Average Time of Reader Thread 2 0
+Average Time of Reader Thread 3 0
+Average Time of Reader Thread 4 0
+Average Time of Reader Thread 5 0
+Average Time of Reader Thread 6 0
+Average Time of Reader Thread 7 0
+Average Time of Reader Thread 8 0
+Average Time of Reader Thread 9 0
+Average Time of Reader Threads 0
+Worst Case Time of Reader Threads 0
+
+Average Time of Writer Thread 0 0
+Average Time of Writer Thread 1 4096
+Average Time of Writer Thread 2 0
+Average Time of Writer Thread 3 0
+Average Time of Writer Thread 4 0
+Average Time of Writer Thread 5 0
+Average Time of Writer Thread 6 4096
+Average Time of Writer Thread 7 0
+Average Time of Writer Thread 8 0
+Average Time of Writer Thread 9 0
+Average Time of Writer Threads 819
+Worst Case Time of Writer Threads 4096
+
